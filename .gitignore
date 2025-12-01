@@ -1,0 +1,12 @@
+open_ragbench_local/
+.env
+optimized_embed_v5.py
+optimized_embed_v4.py
+optimized_embed_v3.py
+optimized_embed_v2.py
+optimized_embed_v1.py
+cosine_score.py     
+all_score.py
+chroma_ragbench_db
+faiss_ragbench_db
+open_ragbench_local

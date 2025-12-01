@@ -1,0 +1,13 @@
+[project]
+name = "air-openrag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "faiss-cpu>=1.13.0",
+    "langchain-chroma>=1.0.0",
+    "langchain-community>=0.4.1",
+    "langchain-openai>=1.1.0",
+    "scikit-learn>=1.7.2",
+]
