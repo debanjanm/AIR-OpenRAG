@@ -10,3 +10,4 @@ all_score.py
 chroma_ragbench_db
 faiss_ragbench_db
 open_ragbench_local
+faiss_ragbench_store
